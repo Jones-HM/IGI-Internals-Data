@@ -6,7 +6,9 @@ IGI-Internals methods information in JSON Format, Functions and Models used in [
 All natives method were decompiled using original game `igi.exe` using IDA/Ghidra for educational purpose not to intend any harm on game files and their property.
  
 ### IGI-Models.json
-`IGI-Models.json` contains list of almost 600 different building/object model information including `MEF` data also, this data was extracted using `Debug-Mode` used by developers in testing which can be unlocked using this script [IGI-Debug-Mode](https://gist.github.com/haseeb-heaven/721d82fccc8de3e6da95cfa609230cea) </br>
+`IGI-Models.json` contains list of almost 640 different building/object model information including `MEF` data also, this data was extracted using `Debug-Mode` used by developers in testing which can be unlocked using this script [IGI-Debug-Mode](https://gist.github.com/haseeb-heaven/721d82fccc8de3e6da95cfa609230cea) </br>
+ Checkout update filed `IGIModelsCategory.json` with each items categorized makes it easy to sort and use the data.
+ </br>
 
 ### IGI-SFX.txt
 `IGI-SFX.txt` contains list of different `SFX` Sound effects file used in game.
