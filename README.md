@@ -10,6 +10,10 @@ Kindly visit the website [IGI-Natives-Search](https://igi-natives-search.netlify
 
 ![igi_natives_ui](https://i.ibb.co/tDHddXs/Screenshot-2023-07-26-at-5-57-50-PM.png?raw=true "")</br>
 
+### IGI-Natives Source
+`IGI-Natives-Source` contains decompiled source code of natives in `Assembly/C++` languages using `IDA Pro disassembler` used for `Project IGI 1`.
+All natives method were decompiled using original game `igi.exe` using IDA/Ghidra for educational purpose not to intend any harm on game files and their property.
+
 ### IGI-Models.json
 `IGI-Models.json` contains list of almost 640 different building/object model information including `MEF` data also, this data was extracted using `Debug-Mode` used by developers in testing which can be unlocked using this script [IGI-Debug-Mode](https://gist.github.com/haseeb-heaven/721d82fccc8de3e6da95cfa609230cea) </br>
  Checkout update filed `IGIModelsCategory.json` with each items categorized makes it easy to sort and use the data.
